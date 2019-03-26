@@ -9,7 +9,7 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>demo-sentinel-flow</artifactId>
+  <artifactId>demo-sentinel-flow-client</artifactId>
 
   <dependencies>
     <dependency>

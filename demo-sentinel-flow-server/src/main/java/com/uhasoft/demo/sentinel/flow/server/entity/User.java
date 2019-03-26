@@ -1,7 +1,7 @@
-package com.uhasoft.demo.sentinel.flow.entity;
+package com.uhasoft.demo.sentinel.flow.server.entity;
 
 /**
- * @author: Weihua
+ * @author Weihua
  * @date: 2019/3/22
  * Here's the class description
  */

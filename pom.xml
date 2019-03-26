@@ -8,7 +8,8 @@
   <artifactId>demo-sentinel</artifactId>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>demo-sentinel-flow</module>
+    <module>demo-sentinel-flow-server</module>
+    <module>demo-sentinel-flow-client</module>
   </modules>
   <packaging>pom</packaging>
 
