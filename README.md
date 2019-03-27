@@ -9,5 +9,5 @@ Just start up the ServerApplication and ClientApplication and visit the APIs def
 3. Visit http://localhost:8002/123/rest to simulate client side RestTemplate flow control.
 
 Personal Opinion:
-Use server side flow control as soon as possible.
+Use server side flow control as possible as you can.
 If you have to use client side flow control, make **RestTemplate** as the **low** priority.
